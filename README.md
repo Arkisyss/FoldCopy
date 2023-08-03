@@ -24,6 +24,11 @@ destination_dir=chemin/du/dossier/de/destination        # change destination pat
 
 ```
 
+## Disclamer
+The script copies and **synchronizes** the source folder with the recipient!
+If you lose data, **I'm not responsible !!**
+
+
 
 ## Usages
 - Follow these steps for **copyfold.sh**!
