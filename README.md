@@ -25,7 +25,7 @@ destination_dir=chemin/du/dossier/de/destination        # change destination pat
 ```
 
 ## Disclamer
-The script copies and **synchronizes** the source folder with the recipient!
+The script copies and **synchronizes** the source folder with the destination !!
 If you lose data, **I'm not responsible !!**
 
 
